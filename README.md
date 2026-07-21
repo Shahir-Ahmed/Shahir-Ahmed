@@ -38,32 +38,64 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 
-# 🚀 What I'm Currently Learning:
+# 🚀 Featured Projects:
+
+### 📁 File Management System
+
+A Python-based **automated file management system** designed to organize files efficiently using customizable rules and automation logic.
+
+**Key Features:**
+- 📂 Automatic file organization
+- 🔍 Directory scanning
+- ⚙️ Rule-based file management
+- 🗂️ Automated file movement
+- 🧩 Configurable organization rules
+
+**Tech:** `Python` `File Handling` `Pathlib` `JSON` `Automation`
+
+
+### 🤖 Multimodel AI Assistant
+
+An AI-powered application that integrates multiple AI models through APIs to provide intelligent conversational and document-based capabilities.
+
+**Key Features:**
+- 🧠 Multiple LLM model integration
+- 💬 AI-powered conversations
+- 📄 PDF/document interaction
+- 🔌 LLM API integration
+- ⚡ FastAPI backend
+- 🌐 Frontend-backend integration
+
+**Tech:** `Python` `FastAPI` `LLM APIs` `Gemini` `Groq` `REST APIs`
+
+
+### 📧 Email Automation System
+
+A Python-based **email automation system** designed to automate repetitive email-related workflows and improve productivity.
+
+**Key Features:**
+- 📩 Automated email sending
+- 📝 Dynamic email content
+- 📎 File and attachment handling
+- ⚙️ Workflow automation
+- 🔄 Repetitive task automation
+
+**Tech:** `Python` `SMTP` `Email Automation` `File Handling` `Automation`
+
+
+# 🎯 Currently Learning:
 
 - 🤖 AI Automation
 - 🧠 LLM APIs & AI Applications
 - ⚡ AI Agents & Agentic AI
-- 🔌 API Integration & Backend Development
-- 🐍 Advanced Python Automation
-- 🏗️ Building Production-Ready AI Systems
+- 🔌 API Integration
+- 🏗️ Backend Development
+- 🐍 Advanced Python
+- 🔄 Building Reliable AI Workflows
+- 🚀 Production-Ready AI Applications
 
 
-# 📌 Featured Projects:
-
-🔹 **Smart File System**  
-A Python-based rule-driven file organization system that automatically scans directories and organizes files based on configurable rules.
-
-🔹 **Excel Automation Tool**  
-A Python automation project designed to clean, process, and manage Excel data efficiently.
-
-🔹 **Job Scraper**  
-A web scraping project that automatically collects and processes job listing data.
-
-🔹 **Multimodel AI Assistant**  
-An AI-powered assistant built with LLM APIs and a FastAPI backend for conversational AI and document-based interactions.
-
-
-# 🎯 My Goal:
+# 🌱 My Goal:
 
 My goal is to become a professional **AI Engineer and AI Automation Developer**, building intelligent systems that combine **Python, APIs, LLMs, automation, and AI agents** to solve real-world problems.
 
